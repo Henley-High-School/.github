@@ -6,5 +6,7 @@
 - 🌱 We're currently working on Pew Pew Penguino.
 - 💞️ We LOVE seeing others doing good things in the world.
 - ⚡ Fun fact: We opened to students back in 1958!
+- 🛜 Learn about HHS: Visit henleyhs.sa.edu.au!
+- 💻 Penguino Game Website: penguinogame.me
 
 ## 🐧🐧🐧
